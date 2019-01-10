@@ -110,5 +110,13 @@
     {
         "key": "alt+n",
         "command": "explorer.newFolder"
+    },
+    {
+        "key": "shift+alt+oem_plus",
+        "command": "workbench.action.increaseViewSize"
+    },
+    {
+        "key": "shift+alt+oem_minus",
+        "command": "workbench.action.decreaseViewSize"
     }
 ]

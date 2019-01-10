@@ -22,3 +22,5 @@
     * new untitled file : 삭제
 * workbench.explorer.fileView.focus : alt + f
 * explorer.newfolder : alt + n
+* decrease current view size : alt + shift + =
+* increase current view size : alt + shift + -
