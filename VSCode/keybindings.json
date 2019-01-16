@@ -118,5 +118,9 @@
     {
         "key": "shift+alt+oem_minus",
         "command": "workbench.action.decreaseViewSize"
+    },
+    {
+        "key": "shift+alt+end",
+        "command": "workbench.action.terminal.kill"
     }
 ]

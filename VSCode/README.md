@@ -24,3 +24,4 @@
 * explorer.newfolder : alt + n
 * decrease current view size : alt + shift + =
 * increase current view size : alt + shift + -
+* kill the active terminal instance : shift + alt + end
