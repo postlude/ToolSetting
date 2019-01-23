@@ -25,3 +25,4 @@
 * decrease current view size : alt + shift + =
 * increase current view size : alt + shift + -
 * kill the active terminal instance : alt + delete
+* workbench.action.keepEditor : alt + home

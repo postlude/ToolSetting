@@ -122,5 +122,13 @@
     {
         "key": "alt+delete",
         "command": "workbench.action.terminal.kill"
+    },
+    {
+        "key": "alt+home",
+        "command": "workbench.action.keepEditor"
+    },
+    {
+        "key": "ctrl+k enter",
+        "command": "-workbench.action.keepEditor"
     }
 ]
