@@ -104,7 +104,7 @@
         "command": "workbench.action.focusPreviousGroup"
     },
     {
-        "key": "alt+f",
+        "key": "alt+e",
         "command": "workbench.explorer.fileView.focus"
     },
     {
@@ -130,5 +130,13 @@
     {
         "key": "ctrl+k enter",
         "command": "-workbench.action.keepEditor"
+    },
+    {
+        "key": "alt+y",
+        "command": "workbench.action.showAllSymbols"
+    },
+    {
+        "key": "ctrl+t",
+        "command": "-workbench.action.showAllSymbols"
     }
 ]

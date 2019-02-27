@@ -20,9 +20,10 @@
 * workbench.action.closeeditortotheright : ctrl + alt + r
 * explorer.newfile : ctrl +n
     * new untitled file : 삭제
-* workbench.explorer.fileView.focus : alt + f
+* workbench.explorer.fileView.focus : alt + e
 * explorer.newfolder : alt + n
 * decrease current view size : alt + shift + =
 * increase current view size : alt + shift + -
 * kill the active terminal instance : alt + delete
 * workbench.action.keepEditor : alt + home
+* Go to Symbol in Workspace : alt + y
