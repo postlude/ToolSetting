@@ -6,7 +6,7 @@
 
 **텍스트 관련**
 * Go to Symbol in Workspace : alt + y
-* insert line below : shift + enter
+* Insert Line Below : shift + enter
     * settings.action.focusPreviousSetting : 삭제
 * Expand Selection : alt + shift + up
 
