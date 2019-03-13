@@ -4,26 +4,34 @@
 
 ### Costom Setting 내용
 
-* create new integrated terminal : alt + t
-* expand select : alt + shift + up
-* focus next terminal : alt + pagedown
-* focus next terminal : alt + pageup
-    * scrollpagedown : 삭제
-    * scrollpageup : 삭제
-* focus next editor group : ctrl + alt + pagedown
-* focus previous editor group : ctrl + alt + pageup
-    * scroll up/down(line) : 삭제
-* focus terminal : alt + end
-* insert line below : shift + enter
-    * settings.action.focusprevioussetting : 삭제
-* workbench.action.closeothereditors : ctrl + alt + w
-* workbench.action.closeeditortotheright : ctrl + alt + r
-* explorer.newfile : ctrl +n
-    * new untitled file : 삭제
-* workbench.explorer.fileView.focus : alt + e
-* explorer.newfolder : alt + n
-* decrease current view size : alt + shift + =
-* increase current view size : alt + shift + -
-* kill the active terminal instance : alt + delete
-* workbench.action.keepEditor : alt + home
+**텍스트 관련**
 * Go to Symbol in Workspace : alt + y
+* insert line below : shift + enter
+    * settings.action.focusPreviousSetting : 삭제
+* Expand Selection : alt + shift + up
+
+**Terminal 관련**
+* Terminal: Create New Integrated Terminal : alt + t
+* Terminal: Focus Next Terminal : alt + pagedown
+* Terminal: Focus Previous Terminal : alt + pageup
+    * scrollPageDown : 삭제
+    * scrollPageUp : 삭제
+* Terminal: Focus Terminal : alt + end
+* Terminal: Kill the Active Terminal Instance : alt + delete
+
+**탭 관련**
+* View: Focus Next Editor Group : ctrl + alt + pagedown
+* View: Focus Previous Editor Group : ctrl + alt + pageup
+    * Terminal: Scroll Up(Line) : 삭제
+    * Terminal: Scroll Down(Line) : 삭제
+* View: Decrease Current View Size : ctrl + alt + =
+* View: Increase Current View Size : ctrl + alt + -
+* workbench.action.closeEditorToTheRight : ctrl + alt + r
+* workbench.action.closeOtherEditors : ctrl + alt + w
+* workbench.action.keepEditor : ctrl + alt + home
+
+**Explorer 관련**
+* explorer.newFile : ctrl +n
+    * File: New Untitled File : 삭제
+* explorer.newFolder : alt + n
+* File: Collapse Folders in Explorer : alt + shift + -

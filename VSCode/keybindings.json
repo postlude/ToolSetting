@@ -24,10 +24,6 @@
         "command": "-workbench.action.terminal.new"
     },
     {
-        "key": "ctrl+shift+g ctrl+shift+h",
-        "command": "gitlens.showFileHistoryInView"
-    },
-    {
         "key": "ctrl+alt+w",
         "command": "workbench.action.closeOtherEditors"
     },
@@ -35,16 +31,6 @@
         "key": "ctrl+shift+up",
         "command": "-cursorUpSelect",
         "when": "textInputFocus"
-    },
-    {
-        "key": "shift+alt+up",
-        "command": "editor.action.smartSelect.grow",
-        "when": "editorTextFocus"
-    },
-    {
-        "key": "shift+alt+right",
-        "command": "-editor.action.smartSelect.grow",
-        "when": "editorTextFocus"
     },
     {
         "key": "shift+alt+up",
@@ -82,10 +68,6 @@
         "command": "explorer.newFile"
     },
     {
-        "key": "ctrl+n",
-        "command": "-workbench.action.files.newUntitledFile"
-    },
-    {
         "key": "ctrl+alt+pagedown",
         "command": "-workbench.action.terminal.scrollDown",
         "when": "terminalFocus"
@@ -104,19 +86,15 @@
         "command": "workbench.action.focusPreviousGroup"
     },
     {
-        "key": "alt+e",
-        "command": "workbench.explorer.fileView.focus"
-    },
-    {
         "key": "alt+n",
         "command": "explorer.newFolder"
     },
     {
-        "key": "shift+alt+oem_plus",
+        "key": "ctrl+alt+oem_plus",
         "command": "workbench.action.increaseViewSize"
     },
     {
-        "key": "shift+alt+oem_minus",
+        "key": "ctrl+alt+oem_minus",
         "command": "workbench.action.decreaseViewSize"
     },
     {
@@ -124,7 +102,7 @@
         "command": "workbench.action.terminal.kill"
     },
     {
-        "key": "alt+home",
+        "key": "ctrl+alt+home",
         "command": "workbench.action.keepEditor"
     },
     {
@@ -138,5 +116,23 @@
     {
         "key": "ctrl+t",
         "command": "-workbench.action.showAllSymbols"
+    },
+    {
+        "key": "shift+alt+oem_minus",
+        "command": "workbench.files.action.collapseExplorerFolders"
+    },
+    {
+        "key": "ctrl+n",
+        "command": "-workbench.action.files.newUntitledFile"
+    },
+    {
+        "key": "shift+alt+up",
+        "command": "editor.action.smartSelect.expand",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+alt+right",
+        "command": "-editor.action.smartSelect.expand",
+        "when": "editorTextFocus"
     }
 ]
