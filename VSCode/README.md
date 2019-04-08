@@ -18,6 +18,8 @@
     * scrollPageUp : 삭제
 * Terminal: Focus Terminal : alt + end
 * Terminal: Kill the Active Terminal Instance : alt + delete
+* View: Toggle Panel : alt + p
+    * keybindings.editor.toggleSortByPrecedence : 삭제
 
 **탭 관련**
 * View: Focus Next Editor Group : ctrl + alt + pagedown
