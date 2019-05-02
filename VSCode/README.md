@@ -1,8 +1,6 @@
-# VS Code keybindings.json
+# VS Code Setting
 
-### Eclipse Keymap 설치
-
-### Costom Setting 내용
+## keybindings.json Costom Setting
 
 **텍스트 관련**
 * Go to Symbol in Workspace : alt + y
@@ -37,3 +35,16 @@
     * File: New Untitled File : 삭제
 * explorer.newFolder : alt + n
 * File: Collapse Folders in Explorer : alt + shift + -
+
+
+## Extensions
+
+* Eclipse Keymap
+* Auto Rename Tag
+* Current File Path
+* Hexo tag snippets
+* JavaScript (ES6) code snippets
+* TabOut
+* GitLens - Git supercharged
+* Code Runner
+    * ctrl + shift + p - Run Code : js 파일 실행
