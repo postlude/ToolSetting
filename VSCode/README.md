@@ -45,6 +45,9 @@
 * Hexo tag snippets
 * JavaScript (ES6) code snippets
 * TabOut
+* Rainbow Brackets
 * GitLens - Git supercharged
 * Code Runner
     * ctrl + shift + p - Run Code : js 파일 실행
+* Vetur
+* Vue Peek
