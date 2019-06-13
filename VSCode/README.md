@@ -27,7 +27,8 @@
 * View: Decrease Current View Size : ctrl + alt + =
 * View: Increase Current View Size : ctrl + alt + -
 * workbench.action.closeEditorToTheRight : ctrl + alt + r
-* workbench.action.closeOtherEditors : ctrl + alt + w
+* workbench.action.closeEditorsInGroup : ctrl + alt + w
+* workbench.action.closeOtherEditors : ctrl + alt + o
 * workbench.action.keepEditor : ctrl + alt + home
 
 **Explorer 관련**
