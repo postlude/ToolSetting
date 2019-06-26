@@ -1,6 +1,6 @@
 # VS Code Setting
 
-## keybindings.json Costom Setting
+## Keybinding Costom Setting
 
 **텍스트 관련**
 * Go to Symbol in Workspace : alt + y
@@ -52,3 +52,9 @@
     * ctrl + shift + p - Run Code : js 파일 실행
 * Vetur
 * Vue Peek
+
+
+## Setting
+
+* "editor.foldingStrategy": "auto" -> "indentation"
+    * JSDoc style, multiline comment fold 가능
