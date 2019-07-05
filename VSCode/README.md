@@ -2,6 +2,9 @@
 
 ## Keybinding Costom Setting
 
+**참고**<br>
+https://code.visualstudio.com/docs/getstarted/keybindings#_when-clause-contexts
+
 **텍스트 관련**
 * Go to Symbol in Workspace : alt + y
 * Insert Line Below : shift + enter
@@ -31,11 +34,14 @@
 * workbench.action.closeOtherEditors : ctrl + alt + o
 * workbench.action.keepEditor : ctrl + alt + home
 
-**Explorer 관련**
-* explorer.newFile : ctrl +n
+**Side Bar 관련**
+* explorer.newFile : ctrl + n
     * File: New Untitled File : 삭제
 * explorer.newFolder : alt + n
-* File: Collapse Folders in Explorer : alt + shift + -
+* File: Collapse Folders in Explorer : ctrl + shift + [
+    * When : filesExplorerFocus
+* Search: Collapse All : ctrl + shift + [
+    * When : searchViewletVisible
 
 
 ## Extensions
