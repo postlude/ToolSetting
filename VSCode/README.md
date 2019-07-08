@@ -41,7 +41,7 @@ https://code.visualstudio.com/docs/getstarted/keybindings#_when-clause-contexts
 * File: Collapse Folders in Explorer : ctrl + shift + [
     * When : filesExplorerFocus
 * Search: Collapse All : ctrl + shift + [
-    * When : searchViewletVisible
+    * When : searchViewletVisible && !editorTextFocus
 
 
 ## Extensions

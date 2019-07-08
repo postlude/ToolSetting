@@ -160,6 +160,35 @@
     {
         "key": "ctrl+shift+oem_4",
         "command": "search.action.collapseSearchResults",
-        "when": "searchViewletVisible"
+        "when": "!editorTextFocus && searchViewletVisible"
+    },
+    {
+        "key": "ctrl+r",
+        "command": "SQLTools.runFromBookmarks",
+        "when": "resourceExtname == .sql"
+    },
+    {
+        "key": "ctrl+e ctrl+a",
+        "command": "-SQLTools.runFromBookmarks"
+    },
+    {
+        "key": "ctrl+enter",
+        "command": "SQLTools.executeQuery",
+        "when": "resourceExtname == .sql"
+    },
+    {
+        "key": "ctrl+e ctrl+e",
+        "command": "-SQLTools.executeQuery",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+b",
+        "command": "SQLTools.bookmarkSelection",
+        "when": "resourceExtname == .sql"
+    },
+    {
+        "key": "ctrl+e ctrl+q",
+        "command": "-SQLTools.bookmarkSelection",
+        "when": "editorTextFocus && !editorReadonly"
     }
 ]
