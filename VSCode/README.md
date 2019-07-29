@@ -64,3 +64,5 @@ https://code.visualstudio.com/docs/getstarted/keybindings#_when-clause-contexts
 
 * "editor.foldingStrategy": "auto" -> "indentation"
     * JSDoc style, multiline comment fold 가능
+* "terminal.integrated.shell.windows": "C:\\dev\\Git\\bin\\bash.exe"
+    * git 경로가 default가 아니면 인식하지 못하므로 직접 세팅
