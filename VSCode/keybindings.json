@@ -190,5 +190,13 @@
         "key": "ctrl+e ctrl+q",
         "command": "-SQLTools.bookmarkSelection",
         "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+shift+6",
+        "command": "extension.camelCase"
+    },
+    {
+        "key": "ctrl+alt+c",
+        "command": "-extension.camelCase"
     }
 ]
