@@ -10,6 +10,14 @@ https://code.visualstudio.com/docs/getstarted/keybindings#_when-clause-contexts
 * Insert Line Below : shift + enter
     * settings.action.focusPreviousSetting : 삭제
 * Expand Selection : alt + shift + up
+* Fold : ctrl + [
+    * Outdent Line : 삭제
+* Unfold : ctrl + ]
+    * Indent Line : 삭제
+* Fold Level 1 : ctrl + shift + [
+    * When : editorTextFocus && foldingEnabled && resourceExtname == '.js'
+* Fold Level 4 : ctrl + shift + [
+    * When : editorTextFocus && foldingEnabled && resourceExtname == '.vue'
 
 **Terminal 관련**
 * Terminal: Create New Integrated Terminal : alt + t
@@ -53,6 +61,8 @@ https://code.visualstudio.com/docs/getstarted/keybindings#_when-clause-contexts
 * JavaScript (ES6) code snippets
 * TabOut
 * Rainbow Brackets
+* CamelCase
+    * CamelCase : ctrl + shift + 6
 * GitLens - Git supercharged
 * Code Runner
     * ctrl + shift + p - Run Code : js 파일 실행
