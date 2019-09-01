@@ -4,6 +4,8 @@
 * postlude-theme.epf
     * http://www.eclipsecolorthemes.org/?view=theme&id=55128
     * Import - General - Preferences
+* sts-keybinding.epf
+    * Import - General - Preferences
 
 **기타 설정**
 * encoding 변경
@@ -16,5 +18,7 @@
     * Window - Preferences - browser 검색 - Web Browser - Use external web browser 체크 - 크롬 선택
 
 **Keybinding 설정**
-* Collapse: ctrl + shift + [
-* Expand: ctrl + shift + ]
+* Collapse : ctrl + [
+* Collapse All : ctrl + shift + [
+    * When : In Windows
+* Expand : ctrl + ]
