@@ -21,4 +21,8 @@
 * Collapse : ctrl + [
 * Collapse All : ctrl + shift + [
     * When : In Windows
+* Collapse All : ctrl + shift + [
+    * When : Editing Text
 * Expand : ctrl + ]
+* Expand All : ctrl + shift + ]
+    * When : Editing Text
