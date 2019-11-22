@@ -72,6 +72,10 @@ https://code.visualstudio.com/docs/getstarted/keybindings#_when-clause-contexts
 * Vetur
 * Vue Peek
 * vscode-go-to-file
+* ESLint
+* Path Intellisense
+* Settings Sync
+* SQLTools - Database tools
 
 
 ## Setting
