@@ -67,8 +67,6 @@ https://code.visualstudio.com/docs/getstarted/keybindings#_when-clause-contexts
 * GitLens - Git supercharged
 * Code Runner
     * ctrl + shift + p - Run Code : js 파일 실행
-* CamelCase
-    * ctrl + shift + 6 : camel case 변경
 * Vetur
 * Vue Peek
 * vscode-go-to-file
