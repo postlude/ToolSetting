@@ -41,6 +41,7 @@ https://code.visualstudio.com/docs/getstarted/keybindings#_when-clause-contexts
 * workbench.action.closeEditorsInGroup : ctrl + alt + w
 * workbench.action.closeOtherEditors : ctrl + alt + o
 * workbench.action.keepEditor : ctrl + alt + home
+* Go to the file path under the cursor : ctrl + alt + p
 
 **Side Bar 관련**
 * explorer.newFile : ctrl + n
@@ -70,6 +71,7 @@ https://code.visualstudio.com/docs/getstarted/keybindings#_when-clause-contexts
     * ctrl + shift + 6 : camel case 변경
 * Vetur
 * Vue Peek
+* vscode-go-to-file
 
 
 ## Setting
