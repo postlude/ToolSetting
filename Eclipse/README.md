@@ -30,6 +30,8 @@
     * Expand : ctrl + ]
     * Expand All : ctrl + shift + ]
         * When : Editing Text
+    * Toggle Split Editor (Horizontal) : ctrl + alt + -
+    * Toggle Split Editor (Vertical) : ctrl + alt + \
 
 2. Default
     * Run : ctrl + f11
