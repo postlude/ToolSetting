@@ -41,6 +41,7 @@ https://code.visualstudio.com/docs/getstarted/keybindings#_when-clause-contexts
 * workbench.action.closeEditorsInGroup : ctrl + alt + w
 * workbench.action.closeOtherEditors : ctrl + alt + o
 * workbench.action.keepEditor : ctrl + alt + home
+* Go to the file path under the cursor : ctrl + alt + p
 
 **Side Bar 관련**
 * explorer.newFile : ctrl + n
@@ -66,10 +67,13 @@ https://code.visualstudio.com/docs/getstarted/keybindings#_when-clause-contexts
 * GitLens - Git supercharged
 * Code Runner
     * ctrl + shift + p - Run Code : js 파일 실행
-* CamelCase
-    * ctrl + shift + 6 : camel case 변경
 * Vetur
 * Vue Peek
+* vscode-go-to-file
+* ESLint
+* Path Intellisense
+* Settings Sync
+* SQLTools - Database tools
 
 
 ## Setting
