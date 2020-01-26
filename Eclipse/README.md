@@ -20,7 +20,8 @@
 **Keybinding 설정**
 
 1. 개인 설정
-    * Preference (General > Keys) : ctrl + alt + shift + p
+    * Preference (General > Keys) : ctrl + alt + shift + k
+        * When : In Windows
     * Collapse : ctrl + [
     * Collapse All : ctrl + shift + [
         * When : In Windows
