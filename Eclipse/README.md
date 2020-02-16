@@ -32,6 +32,7 @@
         * When : Editing Text
     * Toggle Split Editor (Horizontal) : ctrl + alt + -
     * Toggle Split Editor (Vertical) : ctrl + alt + \
+    * Relaunch Application : ctrl + alt + r
 
 2. Default
     * Run : ctrl + f11

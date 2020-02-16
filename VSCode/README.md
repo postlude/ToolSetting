@@ -51,6 +51,9 @@ https://code.visualstudio.com/docs/getstarted/keybindings#_when-clause-contexts
     * When : filesExplorerFocus
 * Search: Collapse All : ctrl + shift + [
     * When : searchViewletVisible && !editorTextFocus
+* View: Show Explorer : ctrl + e
+    * Go to File : 삭제
+    * View: Open Previous Recentrly Used Editor in Group : 삭제
 
 
 ## Extensions
