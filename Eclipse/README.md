@@ -33,6 +33,9 @@
     * Toggle Split Editor (Horizontal) : ctrl + alt + -
     * Toggle Split Editor (Vertical) : ctrl + alt + \
     * Relaunch Application : ctrl + alt + r
+    * Show View (Console) : alt + end
+    * Show View (Pakage Explorer) : ctrl + e
+        * Quick Switch Editor : 삭제
 
 2. Default
     * Run : ctrl + f11
