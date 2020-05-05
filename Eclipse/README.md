@@ -18,7 +18,6 @@
     * Window - Preferences - browser 검색 - Web Browser - Use external web browser 체크 - 크롬 선택
 
 **Keybinding 설정**
-
 1. 개인 설정
     * Preference (General > Keys) : ctrl + alt + shift + k
         * When : In Windows
@@ -36,6 +35,7 @@
     * Show View (Console) : alt + end
     * Show View (Pakage Explorer) : ctrl + e
         * Quick Switch Editor : 삭제
+    * Run JUnit Test : ctrl + shift + f11
 
 2. Default
     * Run : ctrl + f11
